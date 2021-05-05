@@ -1,0 +1,1 @@
+En este tutorial se le enseñará A Crear las Operaciones Básicas CRUD en PHP y MySQL con Boostrap en una ventana emergente que son crear, leer, editar y eliminar. Nota: Bootstrap y Javascripts utilizados en este tutorial están alojados en la web, por lo que necesita una conexión a Internet para que funcionen.
